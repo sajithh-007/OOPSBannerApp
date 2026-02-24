@@ -8,4 +8,4 @@ public class PrintOops {
         System.out.println(String.join(" ","  *  *  ","  *  *   ","  *       ","     *"));
         System.out.println(String.join(" ","   **   ","   **    ","  *       ","  **"));
     }
-}
+} 
